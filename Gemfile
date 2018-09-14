@@ -19,6 +19,8 @@ gem 'uglifier', '>= 1.3.0'
 
 # Use Webpack to manage app-like JavaScript modules in Rails
 gem 'webpacker', '~> 3.5'
+# Slim templates generator for Rails 3, 4 and 5
+gem "slim-rails"
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
